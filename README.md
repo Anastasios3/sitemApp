@@ -1,6 +1,5 @@
 ![image](https://github.com/Anastasios3/sitemApp/assets/117446378/30af166d-8a75-4328-a3ae-8c92f5043ba2)
 
-
 # sitemapApp
 
 A simple application to generate and copy sitemaps.
@@ -32,3 +31,5 @@ A simple application to generate and copy sitemaps.
 ## License
 
 This project is licensed under the MIT License.
+
+P.S. Just another problem solving app. Now you can tell ChatGPT where everything is easily.
